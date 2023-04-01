@@ -146,10 +146,11 @@ const   divCartasJugadores = document.querySelectorAll('.divCartas'),
 
     return{
         nuevoJuego :iniciarJuego
+        
     };
 })();
 
-
+//Finalyy
 
 
 
